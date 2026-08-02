@@ -1,4 +1,4 @@
 status=Undetected
-version=1.5
+version=1.6
 uptodate=true
 updated=2026-08-02
